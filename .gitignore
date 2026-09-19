@@ -1,0 +1,12 @@
+# Public showcase only. Add new public files explicitly.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/philosophy.md
+!/assets/
+/assets/*
+!/assets/assistant-home.png
+!/assets/assistant-choice.png
+!/assets/my-settings.png
